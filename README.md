@@ -1,2 +1,2 @@
-# roll-over-avoidance
-Roll-over avoidance system for vehicles
+# BLDC motor control
+'BLDC motor control' implemented using an arduino
